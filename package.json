@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/websignedcapacitycopyrightrscript.plainjs-l4wxzrqt",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve isfGE1BPeoaUrwqd21CC --open"
+  }
+}
